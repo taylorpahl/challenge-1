@@ -12,9 +12,7 @@ No installation required.
 
 ## Usage
 
-Home page for Horiseon.
-   
-    ![Image of webpage](/docs/assets/images/taylorpahl.github.io_challenge-1_.png)
+    ![Image of webpage](docs/assets/images/taylorpahl.github.io_challenge-1_.png?raw=true "Home page for Horiseon")
     
 ## License
 
